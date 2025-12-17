@@ -78,9 +78,9 @@ The custom CNN forms a strong baseline but underperforms compared to leading mod
 
 ***
 
-## 5. Future Work
+## Future Work
 
-To close the gap with state-of-the-art performance and reach clinically viable sensitivity:
+To close the performance gap and reach clinically viable sensitivity:
 
 - **Transfer learning:**  
   - Fine-tune pre-trained architectures such as ResNet-50, DenseNet, or EfficientNet on the curated cardiomegaly dataset.  
