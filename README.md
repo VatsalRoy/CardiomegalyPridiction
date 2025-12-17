@@ -27,7 +27,7 @@ A four-step machine learning pipeline was implemented, covering data curation, p
 - **Dataset source:** A specialized subset was curated from the NIH CheXpert collection.  
 - **Final dataset size:** 5,447 chest X-ray images after quality assurance filtering.  
 - **Preprocessing:**  
-  - Images resized to \(224 \times 224\) pixels.  
+  - Images resized to \(224 x 224\) pixels.  
   - Pixel intensities normalized to the \([0, 1]\) floating-point range.  
 - **Data split (stratified):**  
   - 70% training  
