@@ -56,7 +56,7 @@ The model was evaluated on the held-out test set with the following metrics:
 
 | Metric                               | Value  | Notes |
 |--------------------------------------|--------|-------|
-| Overall accuracy                     | 79.8%  | Solid baseline performance but below SOTA. |
+| Overall accuracy                     | 79.8%  | Solid baseline performance. |
 | Area Under ROC Curve (AUC)          | 0.906  | Indicates strong capability to distinguish positive vs. negative cases. |
 | Cardiomegaly precision               | 0.86   | 86% of samples predicted positive truly have cardiomegaly. |
 | Cardiomegaly recall (sensitivity)    | 0.71   | Only 71% of actual cardiomegaly cases detected. |
